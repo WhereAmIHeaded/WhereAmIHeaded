@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zhaochen
+# 💻 About Me
 
 ### Java backend development · Building and learning
 
