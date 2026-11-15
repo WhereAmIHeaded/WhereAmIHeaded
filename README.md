@@ -2,7 +2,7 @@
 
 ### Java backend development · Building and learning
 
-I’m a Computer Science undergraduate at **Stevens Institute of Technology**, graduating in **2028**. I’m building Java/Spring Boot applications and learning how to turn database models, APIs, and authentication into working products.
+I’m a Computer Science undergraduate at **Stevens Institute of Technology**, graduating in 2028. I’m building Java/Spring Boot applications and learning how to turn database models, APIs, and authentication into working products.
 
 - 🔨 Working on **Xiao An**, a Pomodoro timer and study tracker.
 - 🌱 Practicing Spring Security, JWT authentication, JPA, and relational database design.
