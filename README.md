@@ -30,7 +30,7 @@ I’m a Computer Science undergraduate at **Stevens Institute of Technology**, g
 
 ## 🚀 Projects
 
-### [小安 | 番茄钟](https://github.com/WhereAmIHeaded/xiao-an-pomodoro)
+### [Xiao An | Pomodoro Timer](https://github.com/WhereAmIHeaded/xiao-an-pomodoro)
 A Pomodoro timer and study tracker I built for my own daily use. I continuously iterate on its features and workflows based on how I actually study, combining a Java/Spring Boot backend with a Codex-assisted React frontend. The local development version includes timer controls, task management, calendar history, JWT authentication, and CSRF protection. See the repository README for the currently published scope.
 
 ### [Job Portal Backend](https://github.com/WhereAmIHeaded/job-portal)
