@@ -11,8 +11,8 @@ I’m a Computer Science undergraduate at **Stevens Institute of Technology**, g
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zhaochen-weng-79b056382/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarweng@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/zhaochen-weng-79b056382/)
 
 ## 💻 Tech I work with
 
