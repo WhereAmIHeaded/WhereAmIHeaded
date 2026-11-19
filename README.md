@@ -2,11 +2,11 @@
 
 ### Java backend development · Building and learning
 
-I’m a Computer Science undergraduate at **Stevens Institute of Technology**, graduating in 2028. I’m building Java/Spring Boot applications and learning how to turn database models, APIs, and authentication into working products.
+I’m a Computer Science undergraduate at **Stevens Institute of Technology**, graduating in 2028. I’m currently learning and building reliable applications using Java/Spring Boot.
 
-- 🔨 Working on **Xiao An**, a Pomodoro timer and study tracker.
+- 🔨 Working on **Xiao An**, a Pomodoro timer, supporting tracking study and analyzing study data.
 - 🌱 Practicing Spring Security, JWT authentication, JPA, and relational database design.
-- 🤖 Using **Codex** to develop and integrate a React/TypeScript frontend.
+- 🤖 Using **Codex** to assist designing, developing and debuging backend. And vibe coding frontend using React/TypeScript.
 - 📍 Based in **Hoboken, New Jersey**.
 
 ## 🌐 Connect
